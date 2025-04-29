@@ -12,6 +12,11 @@ Vedio of Project Performance & screenshots
 ![Image](https://github.com/user-attachments/assets/6d85bfaa-7cbf-476b-adda-bdf326d7c918)
 
 
+# To select the options
+
+![Image](https://github.com/user-attachments/assets/a535c136-3977-4cbb-9697-4e4dc42bdbc0)
+
+
 
 
 
