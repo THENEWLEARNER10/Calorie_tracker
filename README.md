@@ -17,6 +17,14 @@ Vedio of Project Performance & screenshots
 ![Image](https://github.com/user-attachments/assets/a535c136-3977-4cbb-9697-4e4dc42bdbc0)
 
 
+# To add the foods
+
+![Image](https://github.com/user-attachments/assets/f7d8cb71-63c4-436f-8a13-2da61542aac2)
+
+# To add the consumers
+
+
+
 
 
 
