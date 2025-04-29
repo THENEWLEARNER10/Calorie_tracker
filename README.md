@@ -1,6 +1,6 @@
 # Calorie_tracker
 ** It's basic calculate the quantity of calorie present in food.**
-Vedio of Project Performance & screenshots
+ Screenshots
 
 
 # Over all Dashbaord
@@ -21,7 +21,7 @@ Vedio of Project Performance & screenshots
 
 ![Image](https://github.com/user-attachments/assets/f7d8cb71-63c4-436f-8a13-2da61542aac2)
 
-# To add the consumers
+# Successfully food in added
 
 
 ![Image](https://github.com/user-attachments/assets/6683e042-e89e-4f2b-8fce-d049ff9d5960)
